@@ -1,0 +1,139 @@
+Device: cuda
+Cargando dataset
+✅ Dataset cargado: total=11262, train=9009, val=2253 , Tiempo usado: 204.8s
+🖼️  Modelo HiIR instanciado. Parámetros totales: 2,745,699
+🚀 Iniciando entrenamiento...
+Época [1/120]  Train Loss: 0.423058  Train PSNR: 6.9488  Train SSIM: 0.0253  Val Loss: 0.425147  Val PSNR: 6.9025  Val SSIM: 0.0256  Tiempo: 223.2s
+Época [2/120]  Train Loss: 0.420670  Train PSNR: 6.9972  Train SSIM: 0.0256  Val Loss: 0.420571  Val PSNR: 6.9848  Val SSIM: 0.0261  Tiempo: 221.4s
+Época [3/120]  Train Loss: 0.416874  Train PSNR: 7.0682  Train SSIM: 0.0264  Val Loss: 0.413972  Val PSNR: 7.1385  Val SSIM: 0.0277  Tiempo: 221.2s
+Época [4/120]  Train Loss: 0.410175  Train PSNR: 7.2140  Train SSIM: 0.0276  Val Loss: 0.402922  Val PSNR: 7.3441  Val SSIM: 0.0278  Tiempo: 222.1s
+Época [5/120]  Train Loss: 0.400507  Train PSNR: 7.4106  Train SSIM: 0.0295  Val Loss: 0.393775  Val PSNR: 7.5522  Val SSIM: 0.0303  Tiempo: 222.4s
+Época [6/120]  Train Loss: 0.391150  Train PSNR: 7.6235  Train SSIM: 0.0325  Val Loss: 0.382602  Val PSNR: 7.8052  Val SSIM: 0.0347  Tiempo: 221.3s
+Época [7/120]  Train Loss: 0.378149  Train PSNR: 7.9193  Train SSIM: 0.0373  Val Loss: 0.365836  Val PSNR: 8.1924  Val SSIM: 0.0403  Tiempo: 221.6s
+Época [8/120]  Train Loss: 0.362276  Train PSNR: 8.2794  Train SSIM: 0.0445  Val Loss: 0.352793  Val PSNR: 8.5092  Val SSIM: 0.0499  Tiempo: 221.4s
+Época [9/120]  Train Loss: 0.344882  Train PSNR: 8.7093  Train SSIM: 0.0565  Val Loss: 0.337052  Val PSNR: 8.8919  Val SSIM: 0.0633  Tiempo: 222.5s
+Época [10/120]  Train Loss: 0.327165  Train PSNR: 9.1433  Train SSIM: 0.0735  Val Loss: 0.317072  Val PSNR: 9.3949  Val SSIM: 0.0863  Tiempo: 223.1s
+🔖 Checkpoint guardado en: G:\MaestriaInformatica\Tecnicas avanzadas\Trabajo_ grupal\Models_v2\hiir_manga_ep10.pth
+Época [11/120]  Train Loss: 0.306943  Train PSNR: 9.6469  Train SSIM: 0.1006  Val Loss: 0.297173  Val PSNR: 9.8932  Val SSIM: 0.1173  Tiempo: 223.8s
+Época [12/120]  Train Loss: 0.287790  Train PSNR: 10.1193  Train SSIM: 0.1363  Val Loss: 0.279951  Val PSNR: 10.2809  Val SSIM: 0.1526  Tiempo: 222.9s
+Época [13/120]  Train Loss: 0.268417  Train PSNR: 10.6118  Train SSIM: 0.1813  Val Loss: 0.256765  Val PSNR: 10.8928  Val SSIM: 0.2072  Tiempo: 222.7s
+Época [14/120]  Train Loss: 0.249665  Train PSNR: 11.0603  Train SSIM: 0.2260  Val Loss: 0.241903  Val PSNR: 11.2248  Val SSIM: 0.2392  Tiempo: 223.1s
+Época [15/120]  Train Loss: 0.231350  Train PSNR: 11.5206  Train SSIM: 0.2682  Val Loss: 0.222913  Val PSNR: 11.7051  Val SSIM: 0.2867  Tiempo: 222.6s
+Época [16/120]  Train Loss: 0.213375  Train PSNR: 12.0094  Train SSIM: 0.3047  Val Loss: 0.207200  Val PSNR: 12.1241  Val SSIM: 0.3194  Tiempo: 222.2s
+Época [17/120]  Train Loss: 0.198544  Train PSNR: 12.4203  Train SSIM: 0.3351  Val Loss: 0.189975  Val PSNR: 12.6827  Val SSIM: 0.3516  Tiempo: 222.2s
+Época [18/120]  Train Loss: 0.183361  Train PSNR: 12.8864  Train SSIM: 0.3584  Val Loss: 0.178639  Val PSNR: 13.0020  Val SSIM: 0.3714  Tiempo: 223.3s
+Época [19/120]  Train Loss: 0.172061  Train PSNR: 13.2662  Train SSIM: 0.3774  Val Loss: 0.169217  Val PSNR: 13.2704  Val SSIM: 0.3841  Tiempo: 222.5s
+Época [20/120]  Train Loss: 0.162288  Train PSNR: 13.6210  Train SSIM: 0.3973  Val Loss: 0.161480  Val PSNR: 13.5352  Val SSIM: 0.3937  Tiempo: 222.5s
+🔖 Checkpoint guardado en: G:\MaestriaInformatica\Tecnicas avanzadas\Trabajo_ grupal\Models_v2\hiir_manga_ep20.pth
+Época [21/120]  Train Loss: 0.154236  Train PSNR: 13.8740  Train SSIM: 0.4124  Val Loss: 0.151043  Val PSNR: 13.9550  Val SSIM: 0.4233  Tiempo: 234.4s
+Época [22/120]  Train Loss: 0.148970  Train PSNR: 14.0283  Train SSIM: 0.4241  Val Loss: 0.144690  Val PSNR: 14.2236  Val SSIM: 0.4433  Tiempo: 220.5s
+Época [23/120]  Train Loss: 0.143623  Train PSNR: 14.2406  Train SSIM: 0.4330  Val Loss: 0.140855  Val PSNR: 14.2803  Val SSIM: 0.4417  Tiempo: 221.3s
+Época [24/120]  Train Loss: 0.139509  Train PSNR: 14.4014  Train SSIM: 0.4389  Val Loss: 0.139345  Val PSNR: 14.3573  Val SSIM: 0.4447  Tiempo: 220.4s
+Época [25/120]  Train Loss: 0.134815  Train PSNR: 14.5677  Train SSIM: 0.4520  Val Loss: 0.134766  Val PSNR: 14.4404  Val SSIM: 0.4461  Tiempo: 220.8s
+Época [26/120]  Train Loss: 0.130838  Train PSNR: 14.7706  Train SSIM: 0.4608  Val Loss: 0.130819  Val PSNR: 14.8177  Val SSIM: 0.4579  Tiempo: 221.8s
+Época [27/120]  Train Loss: 0.128378  Train PSNR: 14.8868  Train SSIM: 0.4614  Val Loss: 0.129726  Val PSNR: 14.7333  Val SSIM: 0.4618  Tiempo: 222.4s
+Época [28/120]  Train Loss: 0.125966  Train PSNR: 15.0184  Train SSIM: 0.4673  Val Loss: 0.125279  Val PSNR: 14.9450  Val SSIM: 0.4795  Tiempo: 222.0s
+Época [29/120]  Train Loss: 0.123367  Train PSNR: 15.1088  Train SSIM: 0.4743  Val Loss: 0.124794  Val PSNR: 14.9963  Val SSIM: 0.4685  Tiempo: 221.4s
+Época [30/120]  Train Loss: 0.121127  Train PSNR: 15.2540  Train SSIM: 0.4747  Val Loss: 0.121451  Val PSNR: 15.1480  Val SSIM: 0.4768  Tiempo: 220.8s
+🔖 Checkpoint guardado en: G:\MaestriaInformatica\Tecnicas avanzadas\Trabajo_ grupal\Models_v2\hiir_manga_ep30.pth
+Época [31/120]  Train Loss: 0.118635  Train PSNR: 15.4076  Train SSIM: 0.4822  Val Loss: 0.118235  Val PSNR: 15.4142  Val SSIM: 0.4882  Tiempo: 219.2s
+Época [32/120]  Train Loss: 0.116743  Train PSNR: 15.5672  Train SSIM: 0.4856  Val Loss: 0.116962  Val PSNR: 15.5664  Val SSIM: 0.4910  Tiempo: 216.6s
+Época [33/120]  Train Loss: 0.114064  Train PSNR: 15.7379  Train SSIM: 0.4901  Val Loss: 0.116884  Val PSNR: 15.4059  Val SSIM: 0.4847  Tiempo: 217.3s
+Época [34/120]  Train Loss: 0.112189  Train PSNR: 15.8933  Train SSIM: 0.4959  Val Loss: 0.111594  Val PSNR: 15.8294  Val SSIM: 0.5046  Tiempo: 218.1s
+Época [35/120]  Train Loss: 0.109163  Train PSNR: 16.1232  Train SSIM: 0.5046  Val Loss: 0.108332  Val PSNR: 16.0687  Val SSIM: 0.5018  Tiempo: 218.0s
+Época [36/120]  Train Loss: 0.106312  Train PSNR: 16.3011  Train SSIM: 0.5125  Val Loss: 0.106034  Val PSNR: 16.2629  Val SSIM: 0.5109  Tiempo: 218.0s
+Época [37/120]  Train Loss: 0.104290  Train PSNR: 16.4984  Train SSIM: 0.5165  Val Loss: 0.103792  Val PSNR: 16.4189  Val SSIM: 0.5235  Tiempo: 218.6s
+Época [38/120]  Train Loss: 0.102442  Train PSNR: 16.6470  Train SSIM: 0.5229  Val Loss: 0.101515  Val PSNR: 16.5174  Val SSIM: 0.5310  Tiempo: 219.0s
+Época [39/120]  Train Loss: 0.098905  Train PSNR: 16.9052  Train SSIM: 0.5373  Val Loss: 0.097939  Val PSNR: 16.9499  Val SSIM: 0.5465  Tiempo: 218.8s
+Época [40/120]  Train Loss: 0.095998  Train PSNR: 17.2152  Train SSIM: 0.5471  Val Loss: 0.095632  Val PSNR: 17.2334  Val SSIM: 0.5508  Tiempo: 217.6s
+🔖 Checkpoint guardado en: G:\MaestriaInformatica\Tecnicas avanzadas\Trabajo_ grupal\Models_v2\hiir_manga_ep40.pth
+Época [41/120]  Train Loss: 0.092714  Train PSNR: 17.5013  Train SSIM: 0.5603  Val Loss: 0.093835  Val PSNR: 17.3210  Val SSIM: 0.5613  Tiempo: 218.4s
+Época [42/120]  Train Loss: 0.091015  Train PSNR: 17.7299  Train SSIM: 0.5705  Val Loss: 0.091309  Val PSNR: 17.6431  Val SSIM: 0.5733  Tiempo: 220.1s
+Época [43/120]  Train Loss: 0.088130  Train PSNR: 18.0025  Train SSIM: 0.5868  Val Loss: 0.090247  Val PSNR: 17.8832  Val SSIM: 0.5803  Tiempo: 219.1s
+Época [44/120]  Train Loss: 0.085534  Train PSNR: 18.3079  Train SSIM: 0.5999  Val Loss: 0.088585  Val PSNR: 17.8046  Val SSIM: 0.5923  Tiempo: 220.2s
+Época [45/120]  Train Loss: 0.083896  Train PSNR: 18.4769  Train SSIM: 0.6115  Val Loss: 0.085984  Val PSNR: 18.1844  Val SSIM: 0.6051  Tiempo: 219.4s
+Época [46/120]  Train Loss: 0.083082  Train PSNR: 18.5672  Train SSIM: 0.6144  Val Loss: 0.083337  Val PSNR: 18.4171  Val SSIM: 0.6184  Tiempo: 219.0s
+Época [47/120]  Train Loss: 0.081492  Train PSNR: 18.7510  Train SSIM: 0.6235  Val Loss: 0.080918  Val PSNR: 18.6797  Val SSIM: 0.6337  Tiempo: 219.0s
+Época [48/120]  Train Loss: 0.079633  Train PSNR: 18.9536  Train SSIM: 0.6325  Val Loss: 0.079824  Val PSNR: 18.8814  Val SSIM: 0.6361  Tiempo: 218.4s
+Época [49/120]  Train Loss: 0.078457  Train PSNR: 19.1623  Train SSIM: 0.6389  Val Loss: 0.074840  Val PSNR: 19.4458  Val SSIM: 0.6619  Tiempo: 218.9s
+Época [50/120]  Train Loss: 0.076205  Train PSNR: 19.4552  Train SSIM: 0.6488  Val Loss: 0.077689  Val PSNR: 19.0790  Val SSIM: 0.6412  Tiempo: 219.1s
+🔖 Checkpoint guardado en: G:\MaestriaInformatica\Tecnicas avanzadas\Trabajo_ grupal\Models_v2\hiir_manga_ep50.pth
+Época [51/120]  Train Loss: 0.075681  Train PSNR: 19.5166  Train SSIM: 0.6540  Val Loss: 0.075400  Val PSNR: 19.4054  Val SSIM: 0.6604  Tiempo: 218.6s
+Época [52/120]  Train Loss: 0.074165  Train PSNR: 19.6525  Train SSIM: 0.6632  Val Loss: 0.075562  Val PSNR: 19.4039  Val SSIM: 0.6641  Tiempo: 219.1s
+Época [53/120]  Train Loss: 0.073277  Train PSNR: 19.7145  Train SSIM: 0.6700  Val Loss: 0.074638  Val PSNR: 19.3835  Val SSIM: 0.6607  Tiempo: 220.1s
+Época [54/120]  Train Loss: 0.071317  Train PSNR: 19.9536  Train SSIM: 0.6765  Val Loss: 0.073687  Val PSNR: 19.9431  Val SSIM: 0.6753  Tiempo: 219.7s
+Época [55/120]  Train Loss: 0.071370  Train PSNR: 20.0450  Train SSIM: 0.6792  Val Loss: 0.071299  Val PSNR: 20.0404  Val SSIM: 0.6823  Tiempo: 218.6s
+Época [56/120]  Train Loss: 0.070589  Train PSNR: 20.1765  Train SSIM: 0.6843  Val Loss: 0.071997  Val PSNR: 20.2714  Val SSIM: 0.6885  Tiempo: 219.2s
+Época [57/120]  Train Loss: 0.069956  Train PSNR: 20.1855  Train SSIM: 0.6885  Val Loss: 0.070738  Val PSNR: 20.0139  Val SSIM: 0.6855  Tiempo: 219.6s
+Época [58/120]  Train Loss: 0.068247  Train PSNR: 20.4765  Train SSIM: 0.6953  Val Loss: 0.071448  Val PSNR: 20.1695  Val SSIM: 0.6824  Tiempo: 220.7s
+Época [59/120]  Train Loss: 0.068421  Train PSNR: 20.5696  Train SSIM: 0.6953  Val Loss: 0.070298  Val PSNR: 20.3696  Val SSIM: 0.6891  Tiempo: 220.2s
+Época [60/120]  Train Loss: 0.067327  Train PSNR: 20.7502  Train SSIM: 0.7026  Val Loss: 0.069039  Val PSNR: 20.3331  Val SSIM: 0.7015  Tiempo: 222.7s
+🔖 Checkpoint guardado en: G:\MaestriaInformatica\Tecnicas avanzadas\Trabajo_ grupal\Models_v2\hiir_manga_ep60.pth
+Época [61/120]  Train Loss: 0.067355  Train PSNR: 20.7881  Train SSIM: 0.7022  Val Loss: 0.068493  Val PSNR: 20.3573  Val SSIM: 0.6970  Tiempo: 220.8s
+Época [62/120]  Train Loss: 0.066843  Train PSNR: 20.6520  Train SSIM: 0.7061  Val Loss: 0.068341  Val PSNR: 20.6680  Val SSIM: 0.7057  Tiempo: 220.4s
+Época [63/120]  Train Loss: 0.065815  Train PSNR: 21.0663  Train SSIM: 0.7117  Val Loss: 0.068425  Val PSNR: 20.4266  Val SSIM: 0.6995  Tiempo: 220.3s
+Época [64/120]  Train Loss: 0.065587  Train PSNR: 20.8598  Train SSIM: 0.7129  Val Loss: 0.068836  Val PSNR: 20.5609  Val SSIM: 0.6997  Tiempo: 220.4s
+Época [65/120]  Train Loss: 0.064921  Train PSNR: 21.1474  Train SSIM: 0.7150  Val Loss: 0.065823  Val PSNR: 21.0397  Val SSIM: 0.7149  Tiempo: 220.2s
+Época [66/120]  Train Loss: 0.064959  Train PSNR: 21.1643  Train SSIM: 0.7160  Val Loss: 0.064137  Val PSNR: 21.0949  Val SSIM: 0.7239  Tiempo: 221.5s
+Época [67/120]  Train Loss: 0.064694  Train PSNR: 21.3272  Train SSIM: 0.7173  Val Loss: 0.064389  Val PSNR: 21.2081  Val SSIM: 0.7201  Tiempo: 220.4s
+Época [68/120]  Train Loss: 0.063477  Train PSNR: 21.4486  Train SSIM: 0.7254  Val Loss: 0.065358  Val PSNR: 21.3088  Val SSIM: 0.7181  Tiempo: 219.8s
+Época [69/120]  Train Loss: 0.063211  Train PSNR: 21.5928  Train SSIM: 0.7239  Val Loss: 0.063642  Val PSNR: 21.3625  Val SSIM: 0.7256  Tiempo: 220.8s
+Época [70/120]  Train Loss: 0.062608  Train PSNR: 21.6899  Train SSIM: 0.7296  Val Loss: 0.063021  Val PSNR: 21.4314  Val SSIM: 0.7282  Tiempo: 220.3s
+🔖 Checkpoint guardado en: G:\MaestriaInformatica\Tecnicas avanzadas\Trabajo_ grupal\Models_v2\hiir_manga_ep70.pth
+Época [71/120]  Train Loss: 0.062224  Train PSNR: 21.6358  Train SSIM: 0.7288  Val Loss: 0.062530  Val PSNR: 21.5772  Val SSIM: 0.7242  Tiempo: 220.7s
+Época [72/120]  Train Loss: 0.061988  Train PSNR: 21.8551  Train SSIM: 0.7310  Val Loss: 0.063677  Val PSNR: 21.6371  Val SSIM: 0.7279  Tiempo: 220.8s
+Época [73/120]  Train Loss: 0.061646  Train PSNR: 21.8453  Train SSIM: 0.7307  Val Loss: 0.061826  Val PSNR: 21.7438  Val SSIM: 0.7330  Tiempo: 221.3s
+Época [74/120]  Train Loss: 0.060712  Train PSNR: 22.1064  Train SSIM: 0.7346  Val Loss: 0.064175  Val PSNR: 21.2907  Val SSIM: 0.7258  Tiempo: 227.3s
+Época [75/120]  Train Loss: 0.060934  Train PSNR: 21.9863  Train SSIM: 0.7339  Val Loss: 0.060703  Val PSNR: 22.1296  Val SSIM: 0.7334  Tiempo: 224.6s
+Época [76/120]  Train Loss: 0.060552  Train PSNR: 22.1746  Train SSIM: 0.7352  Val Loss: 0.060556  Val PSNR: 21.8008  Val SSIM: 0.7412  Tiempo: 222.6s
+Época [77/120]  Train Loss: 0.060697  Train PSNR: 22.0973  Train SSIM: 0.7345  Val Loss: 0.062535  Val PSNR: 21.8999  Val SSIM: 0.7302  Tiempo: 223.1s
+Época [78/120]  Train Loss: 0.059320  Train PSNR: 22.4866  Train SSIM: 0.7395  Val Loss: 0.060253  Val PSNR: 22.1802  Val SSIM: 0.7348  Tiempo: 222.6s
+Época [79/120]  Train Loss: 0.059523  Train PSNR: 22.3866  Train SSIM: 0.7442  Val Loss: 0.061155  Val PSNR: 22.1105  Val SSIM: 0.7370  Tiempo: 226.4s
+Época [80/120]  Train Loss: 0.059066  Train PSNR: 22.6273  Train SSIM: 0.7434  Val Loss: 0.060593  Val PSNR: 22.1704  Val SSIM: 0.7392  Tiempo: 227.1s
+🔖 Checkpoint guardado en: G:\MaestriaInformatica\Tecnicas avanzadas\Trabajo_ grupal\Models_v2\hiir_manga_ep80.pth
+Época [81/120]  Train Loss: 0.059242  Train PSNR: 22.5374  Train SSIM: 0.7425  Val Loss: 0.061545  Val PSNR: 21.8687  Val SSIM: 0.7366  Tiempo: 223.4s
+Época [82/120]  Train Loss: 0.059274  Train PSNR: 22.6378  Train SSIM: 0.7422  Val Loss: 0.061485  Val PSNR: 22.2235  Val SSIM: 0.7351  Tiempo: 221.0s
+Época [83/120]  Train Loss: 0.059170  Train PSNR: 22.9050  Train SSIM: 0.7429  Val Loss: 0.059868  Val PSNR: 22.1743  Val SSIM: 0.7448  Tiempo: 221.8s
+Época [84/120]  Train Loss: 0.057850  Train PSNR: 22.8350  Train SSIM: 0.7490  Val Loss: 0.060622  Val PSNR: 22.4300  Val SSIM: 0.7375  Tiempo: 221.5s
+Época [85/120]  Train Loss: 0.057838  Train PSNR: 22.9147  Train SSIM: 0.7485  Val Loss: 0.059634  Val PSNR: 22.6068  Val SSIM: 0.7470  Tiempo: 223.1s
+Época [86/120]  Train Loss: 0.058138  Train PSNR: 22.8014  Train SSIM: 0.7468  Val Loss: 0.058341  Val PSNR: 23.0065  Val SSIM: 0.7465  Tiempo: 222.1s
+Época [87/120]  Train Loss: 0.058259  Train PSNR: 22.8817  Train SSIM: 0.7486  Val Loss: 0.059641  Val PSNR: 22.8142  Val SSIM: 0.7388  Tiempo: 222.5s
+Época [88/120]  Train Loss: 0.057577  Train PSNR: 23.1303  Train SSIM: 0.7502  Val Loss: 0.055434  Val PSNR: 23.2448  Val SSIM: 0.7670  Tiempo: 222.9s
+Época [89/120]  Train Loss: 0.058034  Train PSNR: 23.0040  Train SSIM: 0.7484  Val Loss: 0.058845  Val PSNR: 22.7922  Val SSIM: 0.7488  Tiempo: 222.0s
+Época [90/120]  Train Loss: 0.057300  Train PSNR: 22.8826  Train SSIM: 0.7502  Val Loss: 0.056967  Val PSNR: 23.1801  Val SSIM: 0.7557  Tiempo: 221.7s
+🔖 Checkpoint guardado en: G:\MaestriaInformatica\Tecnicas avanzadas\Trabajo_ grupal\Models_v2\hiir_manga_ep90.pth
+Época [91/120]  Train Loss: 0.056851  Train PSNR: 23.1615  Train SSIM: 0.7531  Val Loss: 0.057486  Val PSNR: 23.3697  Val SSIM: 0.7485  Tiempo: 222.5s
+Época [92/120]  Train Loss: 0.057017  Train PSNR: 23.1966  Train SSIM: 0.7524  Val Loss: 0.058105  Val PSNR: 23.0081  Val SSIM: 0.7544  Tiempo: 222.6s
+Época [93/120]  Train Loss: 0.056448  Train PSNR: 23.4891  Train SSIM: 0.7550  Val Loss: 0.056831  Val PSNR: 22.8294  Val SSIM: 0.7548  Tiempo: 222.2s
+Época [94/120]  Train Loss: 0.056423  Train PSNR: 23.4317  Train SSIM: 0.7552  Val Loss: 0.057957  Val PSNR: 23.1343  Val SSIM: 0.7489  Tiempo: 221.6s
+Época [95/120]  Train Loss: 0.057332  Train PSNR: 23.2700  Train SSIM: 0.7520  Val Loss: 0.057734  Val PSNR: 22.5916  Val SSIM: 0.7492  Tiempo: 222.5s
+Época [96/120]  Train Loss: 0.056279  Train PSNR: 23.3554  Train SSIM: 0.7554  Val Loss: 0.056317  Val PSNR: 23.2978  Val SSIM: 0.7574  Tiempo: 221.4s
+Época [97/120]  Train Loss: 0.055497  Train PSNR: 23.6259  Train SSIM: 0.7594  Val Loss: 0.057181  Val PSNR: 23.5222  Val SSIM: 0.7522  Tiempo: 222.1s
+Época [98/120]  Train Loss: 0.055552  Train PSNR: 23.6908  Train SSIM: 0.7586  Val Loss: 0.057443  Val PSNR: 23.2579  Val SSIM: 0.7593  Tiempo: 227.0s
+Época [99/120]  Train Loss: 0.055696  Train PSNR: 23.8399  Train SSIM: 0.7590  Val Loss: 0.055290  Val PSNR: 23.7426  Val SSIM: 0.7621  Tiempo: 219.0s
+Época [100/120]  Train Loss: 0.056253  Train PSNR: 23.7212  Train SSIM: 0.7577  Val Loss: 0.058366  Val PSNR: 22.9563  Val SSIM: 0.7487  Tiempo: 219.1s
+🔖 Checkpoint guardado en: G:\MaestriaInformatica\Tecnicas avanzadas\Trabajo_ grupal\Models_v2\hiir_manga_ep100.pth
+Época [101/120]  Train Loss: 0.055603  Train PSNR: 23.6518  Train SSIM: 0.7596  Val Loss: 0.057690  Val PSNR: 23.4130  Val SSIM: 0.7486  Tiempo: 217.7s
+Época [102/120]  Train Loss: 0.056598  Train PSNR: 23.4080  Train SSIM: 0.7562  Val Loss: 0.056282  Val PSNR: 23.8420  Val SSIM: 0.7629  Tiempo: 215.5s
+Época [103/120]  Train Loss: 0.055420  Train PSNR: 23.7446  Train SSIM: 0.7609  Val Loss: 0.057494  Val PSNR: 23.1879  Val SSIM: 0.7579  Tiempo: 213.6s
+Época [104/120]  Train Loss: 0.055390  Train PSNR: 23.7932  Train SSIM: 0.7581  Val Loss: 0.057040  Val PSNR: 23.4770  Val SSIM: 0.7526  Tiempo: 215.2s
+Época [105/120]  Train Loss: 0.055301  Train PSNR: 23.8734  Train SSIM: 0.7604  Val Loss: 0.057982  Val PSNR: 23.6077  Val SSIM: 0.7541  Tiempo: 213.7s
+Época [106/120]  Train Loss: 0.054700  Train PSNR: 23.9145  Train SSIM: 0.7653  Val Loss: 0.054729  Val PSNR: 23.5920  Val SSIM: 0.7632  Tiempo: 214.5s
+Época [107/120]  Train Loss: 0.054738  Train PSNR: 24.0975  Train SSIM: 0.7620  Val Loss: 0.056141  Val PSNR: 23.6759  Val SSIM: 0.7621  Tiempo: 218.4s
+Época [108/120]  Train Loss: 0.055144  Train PSNR: 24.0098  Train SSIM: 0.7621  Val Loss: 0.053488  Val PSNR: 24.3393  Val SSIM: 0.7705  Tiempo: 240.3s
+Época [109/120]  Train Loss: 0.054696  Train PSNR: 24.0749  Train SSIM: 0.7627  Val Loss: 0.053713  Val PSNR: 24.7931  Val SSIM: 0.7667  Tiempo: 275.5s
+Época [110/120]  Train Loss: 0.054002  Train PSNR: 24.1886  Train SSIM: 0.7654  Val Loss: 0.056106  Val PSNR: 23.2261  Val SSIM: 0.7599  Tiempo: 219.7s
+🔖 Checkpoint guardado en: G:\MaestriaInformatica\Tecnicas avanzadas\Trabajo_ grupal\Models_v2\hiir_manga_ep110.pth
+Época [111/120]  Train Loss: 0.054335  Train PSNR: 24.1555  Train SSIM: 0.7657  Val Loss: 0.053994  Val PSNR: 24.3436  Val SSIM: 0.7683  Tiempo: 221.8s
+Época [112/120]  Train Loss: 0.053950  Train PSNR: 24.3375  Train SSIM: 0.7684  Val Loss: 0.057087  Val PSNR: 23.4254  Val SSIM: 0.7509  Tiempo: 221.7s
+Época [113/120]  Train Loss: 0.054231  Train PSNR: 24.2374  Train SSIM: 0.7653  Val Loss: 0.059300  Val PSNR: 23.0519  Val SSIM: 0.7487  Tiempo: 222.2s
+Época [114/120]  Train Loss: 0.054853  Train PSNR: 24.0961  Train SSIM: 0.7635  Val Loss: 0.055776  Val PSNR: 23.4073  Val SSIM: 0.7607  Tiempo: 221.0s
+Época [115/120]  Train Loss: 0.055204  Train PSNR: 24.0439  Train SSIM: 0.7625  Val Loss: 0.056346  Val PSNR: 23.9512  Val SSIM: 0.7626  Tiempo: 219.1s
+Época [116/120]  Train Loss: 0.053957  Train PSNR: 24.4966  Train SSIM: 0.7667  Val Loss: 0.056631  Val PSNR: 23.6005  Val SSIM: 0.7562  Tiempo: 218.2s
+Época [117/120]  Train Loss: 0.053464  Train PSNR: 24.3913  Train SSIM: 0.7693  Val Loss: 0.055860  Val PSNR: 24.0247  Val SSIM: 0.7585  Tiempo: 219.0s
+Época [118/120]  Train Loss: 0.054724  Train PSNR: 24.4375  Train SSIM: 0.7652  Val Loss: 0.054617  Val PSNR: 23.9809  Val SSIM: 0.7657  Tiempo: 216.3s
+Época [119/120]  Train Loss: 0.053268  Train PSNR: 24.4203  Train SSIM: 0.7709  Val Loss: 0.055774  Val PSNR: 24.3136  Val SSIM: 0.7662  Tiempo: 221.9s
+Época [120/120]  Train Loss: 0.053484  Train PSNR: 24.3873  Train SSIM: 0.7700  Val Loss: 0.053607  Val PSNR: 24.6103  Val SSIM: 0.7707  Tiempo: 219.0s
+🔖 Checkpoint guardado en: G:\MaestriaInformatica\Tecnicas avanzadas\Trabajo_ grupal\Models_v2\hiir_manga_ep120.pth
+✅ Modelo final guardado en: G:\MaestriaInformatica\Tecnicas avanzadas\Trabajo_ grupal\Models_v2\hiir_manga
+📈 Curvas de pérdida guardadas en 'training_curves.png'
