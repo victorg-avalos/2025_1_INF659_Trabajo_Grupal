@@ -5,7 +5,8 @@
 
 # Herramientas utilizadas:
 - <b>Jupyter notebook:</b> Desarrollo de notebooks.
-- <b>Github:</b> Control de versiones e integración del trabajo.
+- <b>Onedrive:</b> Repositorio incial de código para trabajo colaborativo.
+- <b>Github:</b> Repositorio final de código.
 
 # Notebooks trabajados:
 | **Archivo**                      | **Descripción**                                                           | **Responsable**     |
