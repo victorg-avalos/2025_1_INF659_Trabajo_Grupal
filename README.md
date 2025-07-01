@@ -14,13 +14,14 @@
 | Train_v1.ipynb    | Replicación de modelos base. Carga de dataset. Lógica base de entrenamiento. | Ronaldo Tunque       |
 | Train_v2.ipynb    | Refinamiento de carga de dataset y lógica base de entrenamiento. | Víctor Avalos   |
 | Train_v3.ipynb    | Refinamiento de metricas de loss.    | Víctor Avalos       |
+| Train_v4.ipynb    | Incrementar complejidad del modelo.    | Víctor Avalos       |
 
 #Apoyo complementarios#
 | **Actividad**                      | **Descripción**                                                           | **Responsable**     |
 |----------------------------------|---------------------------------------------------------------------------|---------------------|
 | Obtención de dataset    | Manga 109. Se tuvo que coordinar con el dueño para obtener acceso | Sergio Olarte y Víctor Avalos |
 | Elaboración de informe    | Usando estándar IEEE. | Víctor Avalos (versión inicial) y Sergio Olarte (versión inicial y final)      |
-| Elaboración de informe   | Refinamiento de carga de dataset y lógica base de entrenamiento. | Víctor Avalos   |
+| Elaboración de informe   | Refinamiento de carga de dataset y lógica base de entrenamiento y resultados. | Sergio Olarte y Víctor Avalos   |
 | Elaboración de presentaciónn    | En powerPoint.    | Víctor Avalos, Ronaldo Tunque y Sergio Olarte      |
 # Modelo base: Hi-IR (Hierarchical Information Flow)
 Referencia: [Hierarchical Information Flow for Generalized Efficient Image Restoration](https://arxiv.org/pdf/2411.18588)
